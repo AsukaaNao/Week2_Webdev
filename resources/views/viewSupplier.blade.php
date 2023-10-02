@@ -29,8 +29,6 @@
                             Dropdown
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">asdasd</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
